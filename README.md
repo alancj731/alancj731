@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a software engineer passionate about 🤖 mach
 
 - ⚡ **Fun fact**: My favorite movie is <a href="https://en.wikipedia.org/wiki/The_Matrix" target="_blank">***The Matrix***</a>
 
-- 💬 **Ask me about**:<br> <br>
+- 💬 **Ask me about**:
 &nbsp;&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg" alt="nextjs" width="40" height="40" /> </a>
 &nbsp;&nbsp;
