@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a software engineer passionate about 🤖 mach
 
 - 💬 **Ask me about**:
 &nbsp;&nbsp;&nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg" alt="nextjs" width="40" height="40" /> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg" alt="nextjs" width="40" height="40" /> </a>
 &nbsp;&nbsp;
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://expressjs.com/images/brand/logotype-dark.svg" alt="express" width="40" height="40"/> </a>
 &nbsp;&nbsp;
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/28507035?s=48&amp;v=4" alt="nest js" width="40" height="40"> </a>
 &nbsp;&nbsp;
