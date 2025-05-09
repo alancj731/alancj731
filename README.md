@@ -29,4 +29,4 @@ Welcome to my GitHub profile! I'm a software engineer passionate about 🤖 mach
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 ### Visit my Blog 
-<a href="https://alancj731.github.io/myblog" target="_blank">📝</a>
+Check it here: <a href="https://alancj731.github.io/myblog" target="_blank">✍️</a>
